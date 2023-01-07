@@ -96,6 +96,7 @@
 .pyear-div:hover {
     background-color: #c06414;
     border-radius: 8px;
+    box-shadow: 0 4px 8px 0 #0000007c, 0 6px 20px 0 #00000060;
 }
 
 .pyear-h2 {
@@ -135,12 +136,13 @@
     display: block;
     margin: 20px;
     padding: 20px 40px;
-    border: 2px solid #ffffff;
+    border: 2px solid #ffffff00;
 }
 
 .mp-sub-div:hover {
     background-color: #c06414;
     border-radius: 8px;
+    box-shadow: 0 4px 8px 0 #0000007c, 0 6px 20px 0 #00000060;
 }
 
 .mp-h3 {
@@ -159,7 +161,7 @@
     display: block;
     margin: 100px auto;
     height: 280px;
-    width: 76%;
+    width: 78%;
 }
 
 .b-sec-h2 {
@@ -167,7 +169,7 @@
     color: #eeeaea;
     padding-top: 70px;
     padding-left: 50px;
-    padding-right: 60%;
+    padding-right: 68%;
 }
 
 .btn-two {
@@ -193,6 +195,14 @@
     margin: 0px auto 150px;
     height: 300px;
     width: 76%;
+}
+
+.b-sec-div:hover {
+    box-shadow: 0 4px 8px 0 #0000007c, 0 6px 20px 0 #00000060;
+}
+
+.b-third-div:hover {
+    box-shadow: 0 4px 8px 0 #0000007c, 0 6px 20px 0 #00000060;
 }
 
 .b-third-h2 {
